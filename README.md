@@ -1,4 +1,3 @@
-- 
 - oi, meu nome é Rebeca
 - estou interessado em aprender novas linguagens
 - estou recentemente aprendendo a programar pelo scratch e javascript
